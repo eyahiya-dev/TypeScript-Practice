@@ -1,3 +1,5 @@
+// firstly install:  npm install @types/node 
+
 import * as crypto from 'crypto';
 
 // Encryption
